@@ -26,5 +26,17 @@
     <ClInclude Include="Lab5Exmaple.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
+    <ClInclude Include="task1.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="task2.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Header.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="task3.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
